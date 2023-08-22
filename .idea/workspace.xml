@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2839c64-e206-46c4-bdec-55a736cb9a42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.shopifyignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/tailwind.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/application.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/theme.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/layout/theme.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/homepage.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/sections/homepage.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/cart.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/templates/cart.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/collection.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/templates/collection.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/collection.list.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/templates/collection.list.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/gift_card.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/templates/gift_card.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/list-collections.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/templates/list-collections.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/product.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/templates/product.liquid" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Tk4nqDYFZG6trHRZf3aToc0MF4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/maxymtyzhnenko/development/shopify/Elizabeth_Clean",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2839c64-e206-46c4-bdec-55a736cb9a42" name="Changes" comment="" />
+      <created>1691573914350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691573914350</updated>
+      <workItem from="1691573915538" duration="4161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
