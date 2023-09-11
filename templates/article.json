@@ -8,11 +8,6 @@
           "settings": {
           }
         },
-        "thumbnail": {
-          "type": "featured_image",
-          "settings": {
-          }
-        },
         "author": {
           "type": "article_author",
           "settings": {
@@ -23,6 +18,11 @@
           "settings": {
           }
         },
+        "thumbnail": {
+          "type": "featured_image",
+          "settings": {
+          }
+        },
         "content": {
           "type": "article_content",
           "settings": {
@@ -30,15 +30,13 @@
         }
       },
       "block_order": [
-        "title",
         "thumbnail",
-        "author",
+        "title",
         "published_date",
+        "author",
         "content"
       ],
       "settings": {
-        "enable_author": true,
-        "enable_published_date": true
       }
     }
   },
