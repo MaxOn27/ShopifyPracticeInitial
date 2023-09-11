@@ -30,15 +30,13 @@
         }
       },
       "block_order": [
-        "title",
-        "author",
-        "published_date",
         "thumbnail",
+        "title",
+        "published_date",
+        "author",
         "content"
       ],
       "settings": {
-        "enable_author": true,
-        "enable_published_date": true
       }
     }
   },
